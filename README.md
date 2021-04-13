@@ -1,5 +1,5 @@
 ## Olá, vem sempre aqui?
-Os gits possuem mais lembranças autoriais do que códigos pessoais. Por favor, não repare na bagunça 👀
+Os gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
 <!---
 - 👋 Hi, I’m @bindwkill
 - 👀 I’m interested in ...
