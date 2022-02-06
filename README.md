@@ -1,7 +1,7 @@
 ## Olá, vem sempre aqui?
 Os gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
 
-#### Repositórios que eu ando mexendo...
+#### Prévia dos repositórios que eu ando mexendo...
 
 📗 https://bindwkill.github.io/Quiz-Iterativo/
 
