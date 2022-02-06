@@ -1,5 +1,14 @@
 ## Olá, vem sempre aqui?
 Os gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
+
+#### Repositórios que eu ando mexendo...
+
+📗 https://bindwkill.github.io/Quiz-Iterativo/
+
+📔 https://bindwkill.github.io/leitordinamicohtml/
+
+🧮 https://bindwkill.github.io/Primordial-Particle-System-with-JavaScript/
+
 <!---
 - 👋 Hi, I’m @bindwkill
 - 👀 I’m interested in ...
