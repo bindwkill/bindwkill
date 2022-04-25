@@ -1,13 +1,21 @@
 ## Olá, vem sempre aqui?
-Os gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
+Meus gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
+
+Estudante de programação em geral, mas apaixonado por Lua & Javascript.
+
+📫 riba.hdm@gmail.com
 
 #### Prévia dos repositórios que eu ando mexendo...
 
-📗 https://bindwkill.github.io/Quiz-Iterativo/
+#### 📗 Curso CJRM (Javascript)
+1. [Quiz Interativo](https://bindwkill.github.io/Quiz-Iterativo/)
+2. [To Do List](https://bindwkill.github.io/todolist/)
 
-📔 https://bindwkill.github.io/leitordinamicohtml/
+#### 📔 Projetos Pessoais
+* [Leitor Dinâmico](https://bindwkill.github.io/leitordinamicohtml/)
 
-🧮 https://bindwkill.github.io/Primordial-Particle-System-with-JavaScript/
+#### 🧮 Maluquice / Desafio
+* [Sistema de particulas primordiais](https://bindwkill.github.io/Primordial-Particle-System-with-JavaScript/)
 
 <!---
 - 👋 Hi, I’m @bindwkill
