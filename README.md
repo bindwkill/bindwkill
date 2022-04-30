@@ -1,11 +1,12 @@
 ## Olá, vem sempre aqui?
 Meus gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
 
-Estudante de programação em geral, mas apaixonado por Lua & Javascript.
+🙋🏽‍♂️ Olá, Meu nome é Ricardo. Sou estudante de programação em geral, mas apaixonado por Lua & Javascript.
 
 📫 riba.hdm@gmail.com
 
-#### Prévia dos repositórios que eu ando mexendo...
+#### 👨🏽‍💻 Eventos Públicos
+* Certificado de participação da Imersão.dev (Alura) - [Certificard](https://bindwkill.github.io/CertificardAlura/)
 
 #### 📗 Curso CJRM (Javascript)
 1. [Quiz Interativo](https://bindwkill.github.io/Quiz-Iterativo/)
