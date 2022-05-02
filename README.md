@@ -1,7 +1,7 @@
 ## Olá, vem sempre aqui?
-Meus gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
-
 🙋🏽‍♂️ Olá, Meu nome é Ricardo. Sou estudante de programação em geral, mas apaixonado por Lua & Javascript.
+
+Meus gits possuem mais lembranças autorais do que códigos pessoais. Por favor, não repare na bagunça 👀
 
 📫 riba.hdm@gmail.com
 
