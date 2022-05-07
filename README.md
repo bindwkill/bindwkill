@@ -13,6 +13,7 @@ Meus gits possuem mais lembranças autorais do que códigos pessoais. Por favor,
 2. [To Do List](https://bindwkill.github.io/todolist/)
 
 #### 📔 Projetos Pessoais
+* [Calculadora Simples](https://bindwkill.github.io/calculadoraSimplesJS/)
 * [Leitor Dinâmico](https://bindwkill.github.io/leitordinamicohtml/)
 
 #### 🧮 Maluquice / Desafio
