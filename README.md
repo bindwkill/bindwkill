@@ -5,19 +5,19 @@ Meus gits possuem mais lembranças autorais do que códigos pessoais. Por favor,
 
 📫 riba.hdm@gmail.com
 
-#### 👨🏽‍💻 Eventos Públicos
-* Certificado de participação da Imersão.dev (Alura) - [Certificard](https://bindwkill.github.io/CertificardAlura/)
-
-#### 📗 Curso CJRM (Javascript)
-1. [Quiz Interativo](https://bindwkill.github.io/Quiz-Iterativo/)
-2. [To Do List](https://bindwkill.github.io/todolist/)
+#### 🧮 Maluquice / Desafio
+* [Sistema de particulas primordiais](https://bindwkill.github.io/Primordial-Particle-System-with-JavaScript/)
 
 #### 📔 Projetos Pessoais
 * [Calculadora Simples](https://bindwkill.github.io/calculadoraSimplesJS/)
 * [Leitor Dinâmico](https://bindwkill.github.io/leitordinamicohtml/)
 
-#### 🧮 Maluquice / Desafio
-* [Sistema de particulas primordiais](https://bindwkill.github.io/Primordial-Particle-System-with-JavaScript/)
+#### 📗 Curso CJRM (Javascript)
+1. [Quiz Interativo](https://bindwkill.github.io/Quiz-Iterativo/)
+2. [To Do List](https://bindwkill.github.io/todolist/)
+
+#### 👨🏽‍💻 Eventos Públicos
+* Certificado de participação da Imersão.dev (Alura) - [Certificard](https://bindwkill.github.io/CertificardAlura/)
 
 <!---
 - 👋 Hi, I’m @bindwkill
